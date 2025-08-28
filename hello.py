@@ -1,2 +1,4 @@
+import sys
+
 for _ in range(3):
     print("hello world")
